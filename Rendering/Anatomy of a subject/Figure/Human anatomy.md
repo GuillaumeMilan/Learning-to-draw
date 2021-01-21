@@ -1,5 +1,6 @@
 # Human anatomy
 
+*TODO*: Make the Basics shapes section and Refined parts section more distinc and not a copy one of the other
 
 Resources:
   - An introduction to human anatomy can be ["How I Draw ANATOMY"](https://www.youtube.com/watch?v=jB_SW4ry4DM&list=PLB5nUgozRxF-ak_GHT1_z9qrZ0Cp5ZTJi)
