@@ -3,6 +3,7 @@
 - [My Thoughts on the Learning Process](https://www.youtube.com/watch?v=sXgaNuxf1vk)
 - [What Are The Fundamentals? Draftsmen S1E04](https://www.youtube.com/watch?v=6Aplx3ETh6U&t=454s)
 
+
 ## Starting is hard
 
 To improve your drawing some fundamentals are needed. I am trying to compile and structure the fundamentals you can find on the internet.
